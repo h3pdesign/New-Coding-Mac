@@ -1,0 +1,71 @@
+{
+    "version": 2.1,
+    
+    /* General Colors */
+    "kFieryColorsAccentColor" : "",
+    "kFieryColorsBackgroundColor" : "",
+    "kFieryColorsBackgroundAccentColor" : "",
+    "kFieryColorsForegroundColor" : "",
+    "kFieryColorsForegroundAccentColor" : "",
+    "kFieryColorsWindowBackgroundColor": "",
+    "kFieryColorsBlurColor": "",
+    
+    /* Navigation Bar */
+    "kFieryColorsNavbarForegroundColor" : "",
+    "kFieryColorsNavbarGradientTopColor" : "",
+    "kFieryColorsNavbarGradientBottomColor" : "",
+    "kFieryColorsNavbarAccentColor" : "",
+    "kFieryColorsNavbarTitleColor" : "",
+    "kFieryColorsNavbarShadowOpacity" : 0.0,
+    
+    /* Notification View */
+    "kFieryColorsNotificationBackgroundColor" : "",
+    "kFieryColorsNotificationForegroundColor" : "",
+    
+    /* Toolbar */
+    "kFieryColorsToolbarBackgroundColor" : "",
+    "kFieryColorsToolbarForegroundColor" : "",
+    "kFieryColorsToolbarShadowOpacity" : 0.0,
+
+    /* Alert View */
+    "kFieryColorsAlertViewBackground" : "",
+    "kFieryColorsAlertViewForeground" : "",
+    "kFieryColorsAlertViewButtonColor" : "",
+    
+    /* Table View Cell */
+    "kFieryColorsCellHighlightBackgroundColor" : "",
+    "kFieryColorsCellHighlightForegroundColor" : "",
+    "kFieryColorsCellSeparatorColor" : "",
+    
+    /* Article Cell Buttons */
+    "kFieryColorsCellButtonsBackgroundColor" : "",
+    "kFieryColorsCellButtonsForegroundColor": "",
+    "kFieryColorsCellButtonsHighlightBackgroundColor": "",
+    "kFieryColorsCellButtonsHighlightForegroundColor": "",
+
+    /* Article Cell Preview Text */
+    "kFieryColorsCellPreviewTextColor" : "",
+    "kFieryColorsCellHighlightPreviewTextColor" : "",
+    
+    /* Image View */
+    "kFieryColorsImageViewBackground" : "",
+    
+    /* Article View */
+    "kFieryColorsArticleBackgroundColor" : "",
+    "kFieryColorsArticleBackgroundAccentColor" : "",
+    "kFieryColorsArticleTitleColor" : "",
+    "kFieryColorsArticleTextColor" : "",
+    "kFieryColorsArticleTextAccentColor" : "",
+    
+    /* Mac Sidebar */
+    "kColorSidebarBackgroundColor" : "",
+	"kFieryColorsHideSidebarNavigationbarColor": "",
+	"kFieryColorsHideSidebarToolbarColor": "",
+    "kFieryColorsHideSidebarHideBars" : false,
+    
+    /* App Settings */
+    "kFieryColorsLightStatusbar" : true,
+    "kFieryColorsDarkScrollbars" : true,
+    "kFieryColorsReadArticleAlpha" : 0.0,
+    "kFieryColorsBackgroundBlurStyle" : "UIBlurEffectStyleDark"
+}

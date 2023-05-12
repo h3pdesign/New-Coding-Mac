@@ -1,0 +1,15 @@
+""import numpy as np
+
+labels = ('9:00', '12:00', '15:00', '18:00', '21:00', '22:00', 'Oct 7')
+values = (predict_delay('1/10/2018 21:45:00', 'SEA ', 'ATL  '),
+          predict_delay('2/10/2018 21:45:00', 'SEA ', 'ATL  '),
+          predict_delay('3/10/2018 21:45:00', 'SEA ', 'ATL  '),
+          predict_delay('4/10/2018 21:45:00', 'SEA ', 'ATL  '),
+          predict_delay('5/10/2018 21:45:00', 'SEA ', 'ATL  '),
+          predict_delay('6/10/2018 21:45:00', 'SEA ', 'ATL  '),
+alabels = np.arange(len(labels))
+
+plt.bar(alabels, values, align='center', alpha=0.5, color = "blue")
+plt.xticks(alabels, labels)
+plt.ylabel('Probability of On-Time Arrival')
+plt.ylim((0.0, 1.0))

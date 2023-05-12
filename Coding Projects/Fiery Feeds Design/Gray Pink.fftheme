@@ -1,0 +1,60 @@
+{
+    "version": 2.0,
+    
+    /* General Colors */
+    "kFieryColorsAccentColor" : "FF008B",
+    "kFieryColorsBackgroundColor" : "C8CCD0",
+    "kFieryColorsBackgroundAccentColor" : "C8CCD0",
+    "kFieryColorsForegroundColor" : "330930",
+    "kFieryColorsForegroundAccentColor" : "404a5c",
+    "kFieryColorsWindowBackgroundColor": "C8CCD0",
+    "kFieryColorsBlurColor": "",
+    
+    /* Navigation Bar */
+    "kFieryColorsNavbarForegroundColor" : "151523",
+    "kFieryColorsNavbarGradientTopColor" : "C8CCD0",
+    "kFieryColorsNavbarGradientBottomColor" : "C8CCD0",
+    "kFieryColorsNavbarAccentColor" : "",
+    "kFieryColorsNavbarTitleColor" : "FA417F",
+    
+    /* Notification View */
+    "kFieryColorsNotificationBackgroundColor" : "DEE2E7",
+    "kFieryColorsNotificationForegroundColor" : "000000",
+    
+    /* Toolbar */
+    "kFieryColorsToolbarBackgroundColor" : "DEE2E7",
+    "kFieryColorsToolbarForegroundColor" : "000000",
+    
+    /* Table View Cell */
+    "kFieryColorsCellHighlightBackgroundColor" : "83A6C9",
+    "kFieryColorsCellHighlightForegroundColor" : "3E5277",
+    "kFieryColorsCellSeparatorColor" : "C4C9C4",
+    
+    /* Article Cell Buttons */
+    "kFieryColorsCellButtonsBackgroundColor" : "596478",
+    "kFieryColorsCellButtonsForegroundColor": "FFFFFF",
+    "kFieryColorsCellButtonsHighlightBackgroundColor": "919FBD",
+    "kFieryColorsCellButtonsHighlightForegroundColor": "FFFFFF",
+
+    /* Image View */
+    "kFieryColorsImageViewBackground" : "EAEEF3",
+
+    /* Alert View */
+    "kFieryColorsAlertViewBackground" : "F4F4F4",
+    "kFieryColorsAlertViewForeground" : "000000",
+    "kFieryColorsAlertViewButtonForeground" : "000000",
+    "kFieryColorsAlertViewButtonBackground" : "#ffffff",
+    
+    /* Article View */
+    "kFieryColorsArticleBackgroundColor" : "FFFFFF",
+    "kFieryColorsArticleBackgroundAccentColor" : "E1E1E1",
+    "kFieryColorsArticleTitleColor" : "DA0060",
+    "kFieryColorsArticleTextColor" : "2A2649",
+    "kFieryColorsArticleTextAccentColor" : "EE005D",
+    
+    /* App Settings */
+    "kFieryColorsLightStatusbar" : true,
+    "kFieryColorsDarkScrollbars" : true,
+    "kFieryColorsReadArticleAlpha" : 0.3,
+    "kFieryColorsBackgroundBlurStyle" : "UIBlurEffectStyleLight"
+}
