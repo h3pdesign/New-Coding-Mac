@@ -1,3 +1,4 @@
+#test
 text = input()
 symbols = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 letters = collections.Counter(text.upper())
